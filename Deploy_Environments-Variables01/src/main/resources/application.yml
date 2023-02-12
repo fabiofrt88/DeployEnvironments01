@@ -1,0 +1,9 @@
+
+myAuthCode:
+  authCode: xyz458
+myDevName:
+  devName: Fabio
+server:
+  port: 4500
+
+
